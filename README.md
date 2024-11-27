@@ -1,4 +1,4 @@
-# io-HEOM
+# Markovian io-HEOM
 This is an python implementation of an input-output extension of a Lindblad master equation modeling a two level system coupled to a 1-dimensional Markovian bath at zero temperature.
 It constitutes a specific case of the more general [input-output Hierarchical Equations of Motion](https://arxiv.org/pdf/2408.12221).
 
