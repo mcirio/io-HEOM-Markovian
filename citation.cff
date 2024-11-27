@@ -1,22 +1,22 @@
 cff-version: 1.2.0
-title: io-HEOM-Markovian
+title: Input-output Lindblad equation
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
 type: software
 authors:
-  - given-names: mauro
-    family-names: cirio
+  - given-names: Mauro
+    family-names: Cirio
     email: cirio.mauro@gmail.com
     affiliation: >-
       Graduate School of China Academy of Engineering
-      Physics
+      Physics, Beijing, China
   - given-names: Pengfei
     family-names: Liang
     email: pfliang@imu.edu.cn
-    affiliation: Inner Mongolia University
+    affiliation: Inner Mongolia University, Hohhot, China
   - given-names: Neill
     family-names: Lambert
     email: nwlambert@gmail.com
-    affiliation: RIKEN
+    affiliation: Theoretical quantum physics laboratory, RIKEN, Wakoshi, Japan
 repository-code: 'https://github.com/mcirio/io-HEOM-Markovian'
