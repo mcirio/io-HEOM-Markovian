@@ -1,4 +1,4 @@
-# input-output Lindblad Equation
+# input-output Lindblad equation
 ## Mauro Cirio, Pengfei Liang, Neill Lambert
 
 Implementation of an input-output extension of a Lindblad master equation modeling a two level system coupled to a 1-dimensional Markovian bath at zero temperature.
