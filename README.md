@@ -1,4 +1,6 @@
 # Markovian io-HEOM
+## Mauro Cirio, Pengfei Liang, Neill Lambert
+
 Implementation of an input-output extension of a Lindblad master equation modeling a two level system coupled to a 1-dimensional Markovian bath at zero temperature.
 It is a special case of the more general [input-output Hierarchical Equations of Motion](https://arxiv.org/pdf/2408.12221).
 
