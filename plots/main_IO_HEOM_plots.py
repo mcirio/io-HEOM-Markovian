@@ -104,7 +104,7 @@ minim, maxim, eps, offset_constant = my_ridgeline(x_list_rescaled,data_analytica
 
 # plot HEOM data
 for n_HEOM,data_HEOM in enumerate(data_HEOM_list):
-    # Offset the data and also make them a density and including the factor 2 corresponding to the square root definition in the analytical part.
+    # Offset the data
     offset_data_HEOM = [x / Delta_x + n_HEOM * offset_constant for x in data_HEOM]
     if n_HEOM == 0:
         ax.plot(x_out_list_rescaled,offset_data_HEOM,linewidth=linewidth_HEOM,label=label_HEOM,zorder=n_analytical_data-n_HEOM,color=color_HEOM,linestyle=linestyle_HEOM)
